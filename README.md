@@ -3,10 +3,9 @@
 
 ### Currently Working on:
 
-- Studying **Applied Mathematics & Computer Science** at **UW-Stout**
-- Took **Machine Learning** abroad at **Sejong University** (Seoul)
-- Building **Momentum Tennis**, a site made *with* AI, documenting where the LLM helps, where it breaks, and how I keep it correct
-- Working on a web project for **CS 235**
+- Advanced Machine Learning final project **Time Series Generation for Glucose Data**
+- Building **Momentum Tennis**, my math modeling final project where we are modeling 
+
 
 
 ### Featured work
