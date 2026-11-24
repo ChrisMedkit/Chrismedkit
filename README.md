@@ -1,9 +1,5 @@
 # Hey, I'm Chris 
 
-> *Applied Math & Computer Science student at UW-Stout.*
-> *Like a Fortnite medkit — I'll heal your code.* 🩹
-
----
 
 ### Currently Working on:
 
