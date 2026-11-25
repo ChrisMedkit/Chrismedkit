@@ -1,9 +1,10 @@
 # Chris Medina
 AMCS @ UW-Stout
-### Currently working on
 ### Interests
 
 I'm into procedural generation, machine learning, algorithms, automata theory and web dev.
+### Currently working on
+
 - Advanced Machine Learning final project: **Time Series Generation for Glucose Data**
 - Building **Momentum Tennis**, my math modeling final project, where we are modeling how to determine if there is momentum in tennis matches from Wimbledon 2023
 - My **Exploration of DCGAN** project. Slowly testing out new architectures and revising this once rushed group project
