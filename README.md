@@ -3,8 +3,8 @@
 
 - Advanced Machine Learning final project: **Time Series Generation for Glucose Data**
 - Building **Momentum Tennis**, my math modeling final project, where we are modeling how to determine if there is momentum in tennis matches from Wimbledon 2023
-- My **Exploration of DCGAN** project. Slowly testing out new architectures and revising my once failed project
-- Learning openCV to finalize my Finite Automata project: **3D L-Systems**
+- My **Exploration of DCGAN** project. Slowly testing out new architectures and revising this once rushed group project
+- Learning openCV to upgrade my Finite Automata project group: **3D L-Systems**
 
 ### Featured work
 
