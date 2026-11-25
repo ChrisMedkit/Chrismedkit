@@ -1,8 +1,7 @@
 # Chris Medina
 AMCS @ UW-Stout
-### Interests
 
-Right now I am interested in 
+### Right now I am interested in 
 - Machine learning, specifically reinforcement learning and the RNN branches of ml
 - Data science and data visualization via my math modeling course
 - Local hosting, which I am still cooking up a plan for a personal home lab.
