@@ -1,4 +1,5 @@
 # Chris Medina
+AMCS @ UW-Stout
 ### Currently working on
 
 - Advanced Machine Learning final project: **Time Series Generation for Glucose Data**
