@@ -2,7 +2,11 @@
 AMCS @ UW-Stout
 ### Interests
 
-I'm into procedural generation, machine learning, algorithms, automata theory and web dev.
+Right now I I am interested in 
+- Machine learning, specifically reinforcement learning and the RNN branches of ml
+- Data science and data visualization via my math modeling course
+- Local hosting, which I am still cooking up a plan for a personal home lab.
+- Creating videos on Youtube, looking to expand to stem/tech related videos soon. 
 ### Currently working on
 
 - Advanced Machine Learning final project: **Time Series Generation for Glucose Data**
