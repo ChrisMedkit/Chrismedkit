@@ -8,7 +8,7 @@
 ### Currently working on
 
 - Advanced Machine Learning final project: **Time Series Generation for Glucose Data**
-- Building **[Momentum Tennis](https://github.com/ChrisMedkit/Momentum-Tennis)**, my math modeling final project, where we are modeling how to determine if there is momentum in tennis matches from Wimbledon 2023
+- Building **Momentum Tennis**, my math modeling final project, where we are modeling how to determine if there is momentum in tennis matches from Wimbledon 2023
 
 ### Featured work
 
@@ -22,27 +22,11 @@
 Procedurally generated 3D trees and plants, made with a custom Blender add-on and shown on a website
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/ChrisMedkit/Momentum-Tennis"><img src="assets/card-momentum-tennis.svg" width="100%" alt="Screenshot of Momentum Tennis replaying the 2023 Wimbledon final point by point, with win chances and a momentum line."></a>
+<a href="https://github.com/ChrisMedkit/Exploration-of-DCGAN-architecture"><img src="assets/card-dcgan.svg" width="100%" alt="Diagram of my text-to-image DCGAN generator: a caption and noise go in and are upsampled from 4x4 to a 64x64 image."></a>
 <br>
-<b><a href="https://github.com/ChrisMedkit/Momentum-Tennis">Momentum Tennis</a></b>
+<b><a href="https://github.com/ChrisMedkit/Exploration-of-DCGAN-architecture">Exploration of DCGAN</a></b>
 <br>
-A website built with AI, with notes on the pitfalls and wins of coding with an LLM
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/ChrisMedkit/MSCS-335-Machine-Learning"><img src="assets/card-machine-learning.svg" width="100%" alt="My k-means clustering of the wine dataset with K = 3, three coloured clusters shown on two principal components."></a>
-<br>
-<b><a href="https://github.com/ChrisMedkit/MSCS-335-Machine-Learning">Machine Learning</a></b>
-<br>
-Notebooks and assignments from ML at Sejong University
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/ChrisMedkit/MSCS-271-Formal-Language-Finite-Automota---2025"><img src="assets/card-automata.svg" width="100%" alt="State diagram of my three-state NFA that accepts strings over a and b containing aa."></a>
-<br>
-<b><a href="https://github.com/ChrisMedkit/MSCS-271-Formal-Language-Finite-Automota---2025">Formal Languages &amp; Automata</a></b>
-<br>
-DFAs, NFAs and grammars, written in C++
+Caption in, image out: a text-to-image GAN built up from a DCGAN to GAN-CLS, trained on Oxford-102 Flowers
 </td>
 </tr>
 </table>
@@ -67,12 +51,3 @@ DFAs, NFAs and grammars, written in C++
 ### Interests
 
 I'm into procedural generation, machine learning, algorithms, automata theory and web dev.
-
-<br>
-
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/footer-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/footer-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img src="assets/footer-light.svg" width="100%" alt="Bug in your code? I've got a medkit for that.">
-</picture>
