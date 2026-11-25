@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Hey, I'm Chris. Applied math and CS student at UW-Stout. A fractal tree grows from my Simple Tree L-system rule: A goes to F[&amp;A]F[^A]A, angle 20 degrees.">
+  <img src="assets/banner-light.svg" width="100%" alt="Hey, I'm Chris. Applied math and CS student at UW-Stout. ">
 </picture>
 
 ### Currently working on
