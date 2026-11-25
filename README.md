@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ChrisMedkit/3D-L-systems"><img src="assets/card-lsystems.svg" width="100%" alt="Screenshot of my 3D L-Systems site showing the Sticks plant model with its rule set."></a>
+<a href="https://github.com/ChrisMedkit/3D-L-systems"><img src="assets/card-lsystems.svg" width="100%" alt="A fractal tree grown generation by generation from my Simple Tree L-system rule: A goes to F[&amp;A]F[^A]A, angle 20 degrees."></a>
 <br>
 <b><a href="https://github.com/ChrisMedkit/3D-L-systems">3D L-Systems</a></b>
 <br>
